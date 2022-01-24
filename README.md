@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mux22ko" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@dataxstudios.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/muriloabreu" target="_blank"><img src="https://dataxstudios.com.br/assets/images/DXS_software.png"></a> 
+  <a href="https://www.linkedin.com/in/muriloabreu" target="_blank"><img src="https://img.shields.io/badge/-email-%23E4405F?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/muriloabr/muriloabr/blob/output/github-contribution-grid-snake.svg)
  
