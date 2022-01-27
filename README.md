@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/muriloabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloabr&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloabr&layout=compact&langs_count=7&theme=apprentice"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloabr&layout=compact&langs_count=7&theme=apprentice&locale =pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="DXS-Ang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
