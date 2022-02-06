@@ -12,7 +12,7 @@
   <img align="center" alt="DXS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="DXS-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="DXS-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="DXS" height="150" style="border-radius:50px;" src="https://s3-sa-east-1.amazonaws.com/99freelas/profile/210x210/murilo-abreu.jpg?m=1610743313951?width=676&height=676">
+  <img align="right" alt="DXS" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/34127542?v=4?width=676&height=676">
 </div>
   
   ##
