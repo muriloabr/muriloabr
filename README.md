@@ -1,4 +1,4 @@
-## MURILO DE ABREU | PROGRAMMER & VIDEOMAKER
+## MURILO ABR | PROGRAMMER
 <div align="center">
   <a href="https://github.com/muriloabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloabr&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&custom_title=Meu%20Github hoje"/>
