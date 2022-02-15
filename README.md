@@ -13,8 +13,7 @@
   <img align="center" alt="DXS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">  
   <img align="center" alt="DXS-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="right" alt="DXS" height="150" style="border-radius:50px;" src="https://dataxstudios.com.br/assets/images/DXS_software.png">   
-</div>
-  <span align="right" height="150"><a href="https://dataxstudios.com.br">Digital Solutions</a></span>
+</div>  
   
   ##
  
@@ -23,6 +22,7 @@
   <a href="https://instagram.com/dataxstudios_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@dataxstudios.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/muriloabreu" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <span align="right" height="150"><a href="https://dataxstudios.com.br">Digital Solutions</a></span>
  
   ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
  
