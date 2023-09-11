@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/muriloabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloabr&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&custom_title=Meu%20Github hoje"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloabr&layout=compact&langs_count=7&theme=apprentice&custom_title=%C3%81reas%20de%20atua%C3%A7%C3%A3o"/>
+  <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloabr&layout=compact&langs_count=7&theme=apprentice&custom_title=%C3%81reas%20de%20atua%C3%A7%C3%A3o"-->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="DXS-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
