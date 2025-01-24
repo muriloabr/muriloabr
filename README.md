@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/muriloabr">
-    <img height="100%" src="https://github-readme-stats-ten-gamma-18.vercel.app/api?username=muriloabr&show_icons=true&theme=transparent&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="100%" src="https://github-readme-stats-ten-gamma-18.vercel.app/api/top-langs/?username=muriloabr&layout=compact&theme=transparent&langs_count=8&theme=github_dark&custom_title=Linguagens%20mais%20utilizadas"/>
+    <img height="100%" src="https://github-readme-stats-ten-gamma-18.vercel.app/api?username=muriloabr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="100%" src="https://github-readme-stats-ten-gamma-18.vercel.app/api/top-langs/?username=muriloabr&layout=compact&theme=github_dark&langs_count=8&custom_title=Linguagens%20mais%20utilizadas"/>
   </a>
 </div>
 
