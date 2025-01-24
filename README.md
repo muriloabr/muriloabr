@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/muriloabr">
-    <img width="100%" src="https://github-readme-stats-git-master-muriloabrs-projects.vercel.app/api?username=muriloabr&show_icons=true&theme=transparent&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img width="100%" src="https://github-readme-stats-git-master-muriloabrs-projects.vercel.app/api/top-langs/?username=muriloabr&layout=compact&theme=transparent&theme=github_dark&langs_count=8&custom_title=Linguagens%20mais%20utilizadas"/>
+    <img width="100%" src="https://github-readme-stats-e8z7t44g7-muriloabrs-projects.vercel.app/api?username=muriloabr&show_icons=true&theme=transparent&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img width="100%" src="https://github-readme-stats-e8z7t44g7-muriloabrs-projects.vercel.app/api/top-langs/?username=muriloabr&layout=compact&theme=transparent&theme=github_dark&langs_count=8&custom_title=Linguagens%20mais%20utilizadas"/>
   </a>
 </div>
 
