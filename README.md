@@ -1,4 +1,4 @@
-## 👋 System Analyst & Developer
+## 👋 Engenheiro de Software
 
 <div align="center">
   <a href="https://github.com/muriloabr">
@@ -45,4 +45,8 @@
   <a href="https://www.linkedin.com/in/muriloabreu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  <a href="https://focoeanalise.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Foco%20e%20An%C3%A1lise-blue?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
+  </a>
 </div>
+
